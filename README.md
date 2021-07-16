@@ -1,7 +1,7 @@
 # Web
 
 
-<html>
+
   <head>
     <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
     <script type="text/javascript">
@@ -36,4 +36,4 @@
   <body>
     <div id="sankey_basic" style="width: 900px; height: 300px;"></div>
   </body>
-</html>
+
